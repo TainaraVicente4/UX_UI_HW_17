@@ -1,0 +1,48 @@
+
+.body {
+  background-color: blue;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}
+.body{
+  background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(68,134,213,1) 100%);
+}
+.img {
+  display: left;
+}
+
+.
+.hero{
+  display: right;
+  word-spacing: normal;
+  vertical-align: text-bottom;
+}
+.topnav {
+  img src: display: position: left-nav;;;
+display: inline-block;
+vertical-align: top;
+width: 73%;
+padding: 1%;
+float: left;
+text-align: right;
+padding: 16px 18px;
+font-size: 19px;
+}
+
+.heroImg{
+  margin: left;
+  padding-top: 10%;
+  padding-left: 35%;
+  padding-right: 35%;
+  padding-bottom: 10%;
+ width: 60%;
+ height: 80%;
+ text-align: center;
+ background: rgb(238,174,202);
+ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(68,134,213,1) 100%);
+}
+
+.footer{
+  padding-top: 80%;
+}
